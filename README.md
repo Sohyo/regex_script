@@ -1,2 +1,2 @@
 # regex_script
-This is python regex script that I worked to clean up annotated Korean dataset
+This is python regex script that I have worked to fix tokenization for annotated Korean dataset.
